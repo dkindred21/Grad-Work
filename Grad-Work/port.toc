@@ -6,7 +6,9 @@
 \contentsline {subsubsection}{\numberline {2.1.1}Reflections}{3}
 \contentsline {paragraph}{}{3}
 \contentsline {subsubsection}{\numberline {2.1.2}Research Design and Data Analysis Syllabus}{4}
-\contentsline {subsection}{\numberline {2.2}Organizational Leadership}{12}
-\contentsline {subsubsection}{\numberline {2.2.1}Reflections}{12}
-\contentsline {subsubsection}{\numberline {2.2.2}Organizational Leadership Syllabus}{13}
-\contentsline {section}{\numberline {3}Part III}{14}
+\contentsline {subsubsection}{\numberline {2.1.3}Work Examples}{12}
+\contentsline {subsection}{\numberline {2.2}Organizational Leadership}{17}
+\contentsline {subsubsection}{\numberline {2.2.1}Reflections}{17}
+\contentsline {subsubsection}{\numberline {2.2.2}Organizational Leadership Syllabus}{18}
+\contentsline {subsubsection}{\numberline {2.2.3}Work Examples}{22}
+\contentsline {section}{\numberline {3}Part III}{27}
