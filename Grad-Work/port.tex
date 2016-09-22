@@ -2,29 +2,36 @@
 \author{Dustin Kindred \\ Chadron State College}
 \date{\today}
 
-\documentclass[12pt]{article}
+\documentclass[12pt,titlepage]{article}
 \usepackage[final]{pdfpages}
-
+\usepackage[letterpaper, margin=1in]{geometry}
+% todo: Make Active navigation Links in Table of Contents
 \begin{document}
 \maketitle
+\tableofcontents
 
-\section{Introduction}
-\includepdf[pages=-]{EDCI631syllabusfall13.pdf}
+\section{Part I}
+\subsection{Resume}
+\includepdf[pages=1,pagecommand={\subsection{Plan of Study}}]{planofstudy.pdf}
 
-\paragraph{Outline}
-The remainder of this article is organized as follows.
-Section~\ref{previous work} gives account of previous work.
-Our new and exciting results are described in Section~\ref{results}.
-Finally, Section~\ref{conclusions} gives the conclusions.
+% Part 2
+\section{Part II}\label{Course Chapters}
+% Part 2 Research Design
+\subsection{Research Design and Data Analysis}
+\subsubsection{Reflections}
+\label{subs:Research Design Reflection}
+\paragraph{}
+Hello this is just a test of the system
 
-\section{Previous work}\label{previous work}
-A much longer \LaTeXe{} example was written by Gil~\cite{Gil:02}.
+\includepdf[pages=1,pagecommand={\subsubsection{Research Design and Data Analysis Syllabus}}]{EDCI631syllabusfall13.pdf}
+\includepdf[pages=2-]{EDCI631syllabusfall13.pdf}
+% Part 2 Org Leadership
+\subsection{Organizational Leadership}
+\subsubsection{Reflections}\label{Org Leadership Reflection}
+\includepdf[pages=1,pagecommand={\subsubsection{Organizational Leadership Syllabus}}]{CTE632SylbsOnLine139.pdf}
 
-\section{Results}\label{results}
-In this section we describe the results.
-
-\section{Conclusions}\label{conclusions}
-We worked hard, and achieved very little.
+% Part 3
+\section{Part III}\label{Summary and Conclusion}
 
 \bibliographystyle{abbrv}
 \bibliography{simple}
