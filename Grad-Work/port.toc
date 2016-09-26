@@ -29,7 +29,7 @@
 \contentsline {subsection}{\numberline {2.9}Human Capital Management}{53}
 \contentsline {subsubsection}{\numberline {2.9.1}Reflections}{53}
 \contentsline {subsubsection}{\numberline {2.9.2}Work Examples}{54}
-\contentsline {subsection}{\numberline {2.10}Marketing Management}{55}
-\contentsline {subsubsection}{\numberline {2.10.1}Reflections}{55}
-\contentsline {subsection}{\numberline {2.11}Business Internship}{55}
-\contentsline {section}{\numberline {3}Part III}{55}
+\contentsline {subsection}{\numberline {2.10}Marketing Management}{66}
+\contentsline {subsubsection}{\numberline {2.10.1}Reflections}{66}
+\contentsline {subsection}{\numberline {2.11}Business Internship}{66}
+\contentsline {section}{\numberline {3}Part III}{66}
