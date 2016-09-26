@@ -11,4 +11,25 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Reflections}{17}
 \contentsline {subsubsection}{\numberline {2.2.2}Organizational Leadership Syllabus}{18}
 \contentsline {subsubsection}{\numberline {2.2.3}Work Examples}{22}
-\contentsline {section}{\numberline {3}Part III}{27}
+\contentsline {subsection}{\numberline {2.3}Advanced Behavioral Statistics}{27}
+\contentsline {subsubsection}{\numberline {2.3.1}Reflections}{27}
+\contentsline {subsection}{\numberline {2.4}Theories of Conflict Resolution}{27}
+\contentsline {subsubsection}{\numberline {2.4.1}Reflections}{27}
+\contentsline {subsubsection}{\numberline {2.4.2}Work Examples}{28}
+\contentsline {subsection}{\numberline {2.5}Business Law}{31}
+\contentsline {subsubsection}{\numberline {2.5.1}Reflections}{31}
+\contentsline {subsection}{\numberline {2.6}Organizational Behavior}{31}
+\contentsline {subsubsection}{\numberline {2.6.1}Reflections}{31}
+\contentsline {subsubsection}{\numberline {2.6.2}Work Examples}{32}
+\contentsline {subsection}{\numberline {2.7}Mathematics for Management}{47}
+\contentsline {subsubsection}{\numberline {2.7.1}Reflections}{47}
+\contentsline {subsubsection}{\numberline {2.7.2}Work Examples}{48}
+\contentsline {subsection}{\numberline {2.8}Public Relations}{53}
+\contentsline {subsubsection}{\numberline {2.8.1}Reflections}{53}
+\contentsline {subsection}{\numberline {2.9}Human Capital Management}{53}
+\contentsline {subsubsection}{\numberline {2.9.1}Reflections}{53}
+\contentsline {subsubsection}{\numberline {2.9.2}Work Examples}{54}
+\contentsline {subsection}{\numberline {2.10}Marketing Management}{55}
+\contentsline {subsubsection}{\numberline {2.10.1}Reflections}{55}
+\contentsline {subsection}{\numberline {2.11}Business Internship}{55}
+\contentsline {section}{\numberline {3}Part III}{55}
