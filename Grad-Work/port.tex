@@ -11,8 +11,9 @@
 \tableofcontents
 
 \section{Part I}
-% todo: Insert current resume
-\subsection{Resume}
+
+\includepdf[pages=1,pagecommand={\subsection{Resume}}]{resume.pdf}
+\includepdf[pages=2-]{resume.pdf}
 \includepdf[pages=1,pagecommand={\subsection{Plan of Study}}]{planofstudy.pdf}
 
 % Part 2
@@ -39,14 +40,12 @@ Hello this is just a test of the system
 % Start of Reflections
 
 % Start Syllabus
-% todo: fix headers in syllabus
 \newgeometry{top=.3in}
 \includepdf[pages=1,pagecommand={\subsubsection{Organizational Leadership Syllabus}}]{CTE632SylbsOnLine139.pdf}
 \restoregeometry
 \includepdf[pages=2-]{CTE632SylbsOnLine139.pdf}
 
 % Work Examples
-% todo: fix headers in report
 \newgeometry{top=.3in}
 \includepdf[pages=1,pagecommand={\subsubsection{Work Examples}}]{Book_review.pdf}
 \restoregeometry
@@ -61,6 +60,10 @@ Hello this is just a test of the system
 \subsubsection{Reflections}
 
 % todo: Start Conflict Syllabus
+\newgeometry{top=.3in}
+\includepdf[pages=1, pagecommand={\subsubsection{Theories of Conflict Resolution Syllabus}}]{Ca610Spring2014.pdf}
+\restoregeometry
+\includepdf[pages=2-]{Ca610Spring2014.pdf}
 \includepdf[pages=1, pagecommand={\subsubsection{Work Examples}}]{Case_Studies_W-Q.pdf}
 \includepdf[pages=2-]{Case_Studies_W-Q.pdf}
 
@@ -102,7 +105,6 @@ Hello this is just a test of the system
 \includepdf[pages=1, pagecommand={\subsubsection{Work Examples}}]{hcp_rp.pdf}
 \restoregeometry
 \includepdf[pages=2-]{hcp_rp.pdf}
-% todo: work human capital margins on PDF
 % todo: Need Syllabus
 
 \subsection{Marketing Management}
