@@ -21,16 +21,17 @@
 \contentsline {subsubsection}{\numberline {2.5.1}Reflections}{45}
 \contentsline {subsection}{\numberline {2.6}Organizational Behavior}{45}
 \contentsline {subsubsection}{\numberline {2.6.1}Reflections}{45}
-\contentsline {subsubsection}{\numberline {2.6.2}Work Examples}{46}
-\contentsline {subsection}{\numberline {2.7}Mathematics for Management}{61}
-\contentsline {subsubsection}{\numberline {2.7.1}Reflections}{61}
-\contentsline {subsubsection}{\numberline {2.7.2}Work Examples}{62}
-\contentsline {subsection}{\numberline {2.8}Public Relations}{67}
-\contentsline {subsubsection}{\numberline {2.8.1}Reflections}{67}
-\contentsline {subsection}{\numberline {2.9}Human Capital Management}{67}
-\contentsline {subsubsection}{\numberline {2.9.1}Reflections}{67}
-\contentsline {subsubsection}{\numberline {2.9.2}Work Examples}{68}
-\contentsline {subsection}{\numberline {2.10}Marketing Management}{80}
-\contentsline {subsubsection}{\numberline {2.10.1}Reflections}{80}
-\contentsline {subsection}{\numberline {2.11}Business Internship}{80}
-\contentsline {section}{\numberline {3}Part III}{80}
+\contentsline {subsubsection}{\numberline {2.6.2}Organizational Behavior Syllabus}{46}
+\contentsline {subsubsection}{\numberline {2.6.3}Work Examples}{52}
+\contentsline {subsection}{\numberline {2.7}Mathematics for Management}{67}
+\contentsline {subsubsection}{\numberline {2.7.1}Reflections}{67}
+\contentsline {subsubsection}{\numberline {2.7.2}Work Examples}{68}
+\contentsline {subsection}{\numberline {2.8}Public Relations}{73}
+\contentsline {subsubsection}{\numberline {2.8.1}Reflections}{73}
+\contentsline {subsection}{\numberline {2.9}Human Capital Management}{73}
+\contentsline {subsubsection}{\numberline {2.9.1}Reflections}{73}
+\contentsline {subsubsection}{\numberline {2.9.2}Work Examples}{74}
+\contentsline {subsection}{\numberline {2.10}Marketing Management}{86}
+\contentsline {subsubsection}{\numberline {2.10.1}Reflections}{86}
+\contentsline {subsection}{\numberline {2.11}Business Internship}{86}
+\contentsline {section}{\numberline {3}Part III}{86}
