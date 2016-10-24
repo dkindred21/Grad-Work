@@ -5,33 +5,50 @@
 \contentsline {subsection}{\numberline {2.1}Research Design and Data Analysis}{6}
 \contentsline {subsubsection}{\numberline {2.1.1}Reflections}{6}
 \contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
 \contentsline {subsubsection}{\numberline {2.1.2}Research Design and Data Analysis Syllabus}{7}
 \contentsline {subsubsection}{\numberline {2.1.3}Work Examples}{15}
 \contentsline {subsection}{\numberline {2.2}Organizational Leadership}{20}
 \contentsline {subsubsection}{\numberline {2.2.1}Reflections}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{20}
 \contentsline {subsubsection}{\numberline {2.2.2}Organizational Leadership Syllabus}{21}
 \contentsline {subsubsection}{\numberline {2.2.3}Work Examples}{25}
 \contentsline {subsection}{\numberline {2.3}Advanced Behavioral Statistics}{30}
 \contentsline {subsubsection}{\numberline {2.3.1}Reflections}{30}
-\contentsline {subsection}{\numberline {2.4}Theories of Conflict Resolution}{30}
-\contentsline {subsubsection}{\numberline {2.4.1}Reflections}{30}
-\contentsline {subsubsection}{\numberline {2.4.2}Theories of Conflict Resolution Syllabus}{31}
-\contentsline {subsubsection}{\numberline {2.4.3}Work Examples}{42}
-\contentsline {subsection}{\numberline {2.5}Business Law}{45}
-\contentsline {subsubsection}{\numberline {2.5.1}Reflections}{45}
-\contentsline {subsection}{\numberline {2.6}Organizational Behavior}{45}
-\contentsline {subsubsection}{\numberline {2.6.1}Reflections}{45}
-\contentsline {subsubsection}{\numberline {2.6.2}Organizational Behavior Syllabus}{46}
-\contentsline {subsubsection}{\numberline {2.6.3}Work Examples}{52}
-\contentsline {subsection}{\numberline {2.7}Mathematics for Management}{67}
-\contentsline {subsubsection}{\numberline {2.7.1}Reflections}{67}
-\contentsline {subsubsection}{\numberline {2.7.2}Work Examples}{68}
-\contentsline {subsection}{\numberline {2.8}Public Relations}{73}
-\contentsline {subsubsection}{\numberline {2.8.1}Reflections}{73}
-\contentsline {subsection}{\numberline {2.9}Human Capital Management}{73}
-\contentsline {subsubsection}{\numberline {2.9.1}Reflections}{73}
-\contentsline {subsubsection}{\numberline {2.9.2}Work Examples}{74}
-\contentsline {subsection}{\numberline {2.10}Marketing Management}{86}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {subsection}{\numberline {2.4}Advanced Behavioral Stats}{31}
+\contentsline {subsection}{\numberline {2.5}Theories of Conflict Resolution}{37}
+\contentsline {subsubsection}{\numberline {2.5.1}Reflections}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {subsubsection}{\numberline {2.5.2}Theories of Conflict Resolution Syllabus}{38}
+\contentsline {subsubsection}{\numberline {2.5.3}Work Examples}{49}
+\contentsline {subsection}{\numberline {2.6}Business Law}{52}
+\contentsline {subsubsection}{\numberline {2.6.1}Reflections}{52}
+\contentsline {paragraph}{}{52}
+\contentsline {paragraph}{}{52}
+\contentsline {paragraph}{}{52}
+\contentsline {paragraph}{}{52}
+\contentsline {subsection}{\numberline {2.7}Business law Syllabus}{53}
+\contentsline {subsection}{\numberline {2.8}Organizational Behavior}{58}
+\contentsline {subsubsection}{\numberline {2.8.1}Reflections}{58}
+\contentsline {subsubsection}{\numberline {2.8.2}Organizational Behavior Syllabus}{59}
+\contentsline {subsubsection}{\numberline {2.8.3}Work Examples}{65}
+\contentsline {subsection}{\numberline {2.9}Mathematics for Management}{80}
+\contentsline {subsubsection}{\numberline {2.9.1}Reflections}{80}
+\contentsline {subsubsection}{\numberline {2.9.2}Work Examples}{81}
+\contentsline {subsection}{\numberline {2.10}Public Relations}{86}
 \contentsline {subsubsection}{\numberline {2.10.1}Reflections}{86}
-\contentsline {subsection}{\numberline {2.11}Business Internship}{86}
-\contentsline {section}{\numberline {3}Part III}{86}
+\contentsline {subsection}{\numberline {2.11}Human Capital Management}{86}
+\contentsline {subsubsection}{\numberline {2.11.1}Reflections}{86}
+\contentsline {subsubsection}{\numberline {2.11.2}Work Examples}{87}
+\contentsline {subsection}{\numberline {2.12}Marketing Management}{99}
+\contentsline {subsubsection}{\numberline {2.12.1}Reflections}{99}
+\contentsline {subsection}{\numberline {2.13}Business Internship}{99}
+\contentsline {section}{\numberline {3}Part III}{99}
