@@ -1,54 +1,68 @@
-\contentsline {section}{\numberline {1}Part I}{1}
-\contentsline {subsection}{\numberline {1.1}Resume}{2}
-\contentsline {subsection}{\numberline {1.2}Plan of Study}{5}
-\contentsline {section}{\numberline {2}Part II}{6}
-\contentsline {subsection}{\numberline {2.1}Research Design and Data Analysis}{6}
-\contentsline {subsubsection}{\numberline {2.1.1}Reflections}{6}
-\contentsline {paragraph}{}{6}
-\contentsline {paragraph}{}{6}
-\contentsline {paragraph}{}{6}
-\contentsline {subsubsection}{\numberline {2.1.2}Research Design and Data Analysis Syllabus}{7}
-\contentsline {subsubsection}{\numberline {2.1.3}Work Examples}{15}
-\contentsline {subsection}{\numberline {2.2}Organizational Leadership}{20}
-\contentsline {subsubsection}{\numberline {2.2.1}Reflections}{20}
-\contentsline {paragraph}{}{20}
-\contentsline {paragraph}{}{20}
-\contentsline {paragraph}{}{20}
-\contentsline {paragraph}{}{20}
-\contentsline {subsubsection}{\numberline {2.2.2}Organizational Leadership Syllabus}{21}
-\contentsline {subsubsection}{\numberline {2.2.3}Work Examples}{25}
-\contentsline {subsection}{\numberline {2.3}Advanced Behavioral Statistics}{30}
-\contentsline {subsubsection}{\numberline {2.3.1}Reflections}{30}
-\contentsline {paragraph}{}{30}
-\contentsline {paragraph}{}{30}
-\contentsline {paragraph}{}{30}
-\contentsline {subsection}{\numberline {2.4}Advanced Behavioral Stats}{31}
-\contentsline {subsection}{\numberline {2.5}Theories of Conflict Resolution}{37}
-\contentsline {subsubsection}{\numberline {2.5.1}Reflections}{37}
-\contentsline {paragraph}{}{37}
-\contentsline {paragraph}{}{37}
-\contentsline {subsubsection}{\numberline {2.5.2}Theories of Conflict Resolution Syllabus}{38}
-\contentsline {subsubsection}{\numberline {2.5.3}Work Examples}{49}
-\contentsline {subsection}{\numberline {2.6}Business Law}{52}
-\contentsline {subsubsection}{\numberline {2.6.1}Reflections}{52}
-\contentsline {paragraph}{}{52}
-\contentsline {paragraph}{}{52}
-\contentsline {paragraph}{}{52}
-\contentsline {paragraph}{}{52}
-\contentsline {subsection}{\numberline {2.7}Business law Syllabus}{53}
-\contentsline {subsection}{\numberline {2.8}Organizational Behavior}{58}
-\contentsline {subsubsection}{\numberline {2.8.1}Reflections}{58}
-\contentsline {subsubsection}{\numberline {2.8.2}Organizational Behavior Syllabus}{59}
-\contentsline {subsubsection}{\numberline {2.8.3}Work Examples}{65}
-\contentsline {subsection}{\numberline {2.9}Mathematics for Management}{80}
-\contentsline {subsubsection}{\numberline {2.9.1}Reflections}{80}
-\contentsline {subsubsection}{\numberline {2.9.2}Work Examples}{81}
-\contentsline {subsection}{\numberline {2.10}Public Relations}{86}
-\contentsline {subsubsection}{\numberline {2.10.1}Reflections}{86}
-\contentsline {subsection}{\numberline {2.11}Human Capital Management}{86}
-\contentsline {subsubsection}{\numberline {2.11.1}Reflections}{86}
-\contentsline {subsubsection}{\numberline {2.11.2}Work Examples}{87}
-\contentsline {subsection}{\numberline {2.12}Marketing Management}{99}
-\contentsline {subsubsection}{\numberline {2.12.1}Reflections}{99}
-\contentsline {subsection}{\numberline {2.13}Business Internship}{99}
-\contentsline {section}{\numberline {3}Part III}{99}
+\contentsline {section}{\numberline {1}Part I}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Resume}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Plan of Study}{6}{subsection.1.2}
+\contentsline {section}{\numberline {2}Part II}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Research Design and Data Analysis}{7}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Reflections}{7}{subsubsection.2.1.1}
+\contentsline {paragraph}{}{7}{section*.2}
+\contentsline {paragraph}{}{7}{section*.3}
+\contentsline {paragraph}{}{7}{section*.4}
+\contentsline {subsubsection}{\numberline {2.1.2}Research Design and Data Analysis Syllabus}{8}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Work Examples}{16}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}Organizational Leadership}{21}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Reflections}{21}{subsubsection.2.2.1}
+\contentsline {paragraph}{}{21}{section*.5}
+\contentsline {paragraph}{}{21}{section*.6}
+\contentsline {paragraph}{}{21}{section*.7}
+\contentsline {paragraph}{}{21}{section*.8}
+\contentsline {subsubsection}{\numberline {2.2.2}Organizational Leadership Syllabus}{22}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Work Examples}{26}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Advanced Behavioral Statistics}{31}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Reflections}{31}{subsubsection.2.3.1}
+\contentsline {paragraph}{}{31}{section*.9}
+\contentsline {paragraph}{}{31}{section*.10}
+\contentsline {paragraph}{}{31}{section*.11}
+\contentsline {subsection}{\numberline {2.4}Advanced Behavioral Stats}{32}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Theories of Conflict Resolution}{38}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Reflections}{38}{subsubsection.2.5.1}
+\contentsline {paragraph}{}{38}{section*.12}
+\contentsline {paragraph}{}{38}{section*.13}
+\contentsline {subsubsection}{\numberline {2.5.2}Theories of Conflict Resolution Syllabus}{39}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Work Examples}{50}{subsubsection.2.5.3}
+\contentsline {subsection}{\numberline {2.6}Business Law}{53}{subsection.2.6}
+\contentsline {subsubsection}{\numberline {2.6.1}Reflections}{53}{subsubsection.2.6.1}
+\contentsline {paragraph}{}{53}{section*.14}
+\contentsline {paragraph}{}{53}{section*.15}
+\contentsline {paragraph}{}{53}{section*.16}
+\contentsline {paragraph}{}{53}{section*.17}
+\contentsline {subsection}{\numberline {2.7}Business law Syllabus}{54}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Organizational Behavior}{59}{subsection.2.8}
+\contentsline {subsubsection}{\numberline {2.8.1}Reflections}{59}{subsubsection.2.8.1}
+\contentsline {paragraph}{}{59}{section*.18}
+\contentsline {paragraph}{}{59}{section*.19}
+\contentsline {paragraph}{}{59}{section*.20}
+\contentsline {paragraph}{}{59}{section*.21}
+\contentsline {subsubsection}{\numberline {2.8.2}Organizational Behavior Syllabus}{60}{subsubsection.2.8.2}
+\contentsline {subsubsection}{\numberline {2.8.3}Work Examples}{66}{subsubsection.2.8.3}
+\contentsline {subsection}{\numberline {2.9}Mathematics for Management}{81}{subsection.2.9}
+\contentsline {subsubsection}{\numberline {2.9.1}Reflections}{81}{subsubsection.2.9.1}
+\contentsline {paragraph}{}{81}{section*.22}
+\contentsline {paragraph}{}{81}{section*.23}
+\contentsline {paragraph}{}{81}{section*.24}
+\contentsline {subsubsection}{\numberline {2.9.2}Mathematics for Management Syllabus}{82}{subsubsection.2.9.2}
+\contentsline {subsubsection}{\numberline {2.9.3}Work Examples}{85}{subsubsection.2.9.3}
+\contentsline {subsection}{\numberline {2.10}Public Relations}{90}{subsection.2.10}
+\contentsline {subsubsection}{\numberline {2.10.1}Reflections}{90}{subsubsection.2.10.1}
+\contentsline {paragraph}{}{90}{section*.25}
+\contentsline {paragraph}{}{90}{section*.26}
+\contentsline {paragraph}{}{90}{section*.27}
+\contentsline {paragraph}{}{90}{section*.28}
+\contentsline {subsubsection}{\numberline {2.10.2}Public Relations Syllabus}{91}{subsubsection.2.10.2}
+\contentsline {subsubsection}{\numberline {2.10.3}Work Examples}{98}{subsubsection.2.10.3}
+\contentsline {subsection}{\numberline {2.11}Human Capital Management}{98}{subsection.2.11}
+\contentsline {subsubsection}{\numberline {2.11.1}Reflections}{98}{subsubsection.2.11.1}
+\contentsline {subsubsection}{\numberline {2.11.2}Work Examples}{99}{subsubsection.2.11.2}
+\contentsline {subsection}{\numberline {2.12}Marketing Management}{111}{subsection.2.12}
+\contentsline {subsubsection}{\numberline {2.12.1}Reflections}{111}{subsubsection.2.12.1}
+\contentsline {subsection}{\numberline {2.13}Business Internship}{111}{subsection.2.13}
+\contentsline {section}{\numberline {3}Part III}{111}{section.3}
