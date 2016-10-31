@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.20)  27 OCT 2016 13:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.20)  28 OCT 2016 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -370,13 +370,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 ...}{\numberline {3}Part III}{138}{section.3}
+l.80 ...Business Internship}{138}{subsection.2.12}
                                                    [1])
 \tf@toc=\write4
 \openout4 = `port.toc'.
 
  [2]
-<resume.pdf, id=246, 614.295pt x 794.97pt>
+<resume.pdf, id=261, 614.295pt x 794.97pt>
 File: resume.pdf Graphic file (type pdf)
  <use resume.pdf>
 Package pdftex.def Info: resume.pdf used on input line 17.
@@ -386,7 +386,7 @@ File: resume.pdf Graphic file (type pdf)
 Package pdftex.def Info: resume.pdf used on input line 17.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<resume.pdf, id=249, page=1, 614.295pt x 794.97pt>
+<resume.pdf, id=264, page=1, 614.295pt x 794.97pt>
 File: resume.pdf Graphic file (type pdf)
  <use resume.pdf, page 1>
 Package pdftex.def Info: resume.pdf, page1 used on input line 17.
@@ -420,7 +420,7 @@ File: resume.pdf Graphic file (type pdf)
 Package pdftex.def Info: resume.pdf used on input line 18.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<resume.pdf, id=272, page=2, 614.295pt x 794.97pt>
+<resume.pdf, id=287, page=2, 614.295pt x 794.97pt>
 File: resume.pdf Graphic file (type pdf)
  <use resume.pdf, page 2>
 Package pdftex.def Info: resume.pdf, page2 used on input line 18.
@@ -439,7 +439,7 @@ File: resume.pdf Graphic file (type pdf)
 Package pdftex.def Info: resume.pdf, page2 used on input line 18.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<resume.pdf, id=273, page=3, 614.295pt x 794.97pt>
+<resume.pdf, id=288, page=3, 614.295pt x 794.97pt>
 File: resume.pdf Graphic file (type pdf)
  <use resume.pdf, page 3>
 Package pdftex.def Info: resume.pdf, page3 used on input line 18.
@@ -459,7 +459,7 @@ File: resume.pdf Graphic file (type pdf)
 Package pdftex.def Info: resume.pdf, page3 used on input line 18.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [6 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/resume.pdf>]
-<planofstudy.pdf, id=285, 614.295pt x 794.97pt>
+<planofstudy.pdf, id=300, 614.295pt x 794.97pt>
 File: planofstudy.pdf Graphic file (type pdf)
  <use planofstudy.pdf>
 Package pdftex.def Info: planofstudy.pdf used on input line 19.
@@ -469,7 +469,7 @@ File: planofstudy.pdf Graphic file (type pdf)
 <use planofstudy.pdf>
 Package pdftex.def Info: planofstudy.pdf used on input line 19.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- <planofstudy.pdf, id=288, page=1, 614.295pt x 794.97pt>
+ <planofstudy.pdf, id=303, page=1, 614.295pt x 794.97pt>
 File: planofstudy.pdf Graphic file (type pdf)
 
 <use planofstudy.pdf, page 1>
@@ -494,7 +494,7 @@ File: planofstudy.pdf Graphic file (type pdf)
 Package pdftex.def Info: planofstudy.pdf, page1 used on input line 19.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [7 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/planofstudy.pdf>]
-<EDCI631syllabusfall13.pdf, id=296, 614.295pt x 794.97pt>
+<EDCI631syllabusfall13.pdf, id=311, 614.295pt x 794.97pt>
 File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 
 <use EDCI631syllabusfall13.pdf>
@@ -505,7 +505,7 @@ File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 Package pdftex.def Info: EDCI631syllabusfall13.pdf used on input line 33.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<EDCI631syllabusfall13.pdf, id=299, page=1, 614.295pt x 794.97pt>
+<EDCI631syllabusfall13.pdf, id=314, page=1, 614.295pt x 794.97pt>
 File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 
 <use EDCI631syllabusfall13.pdf, page 1>
@@ -549,7 +549,7 @@ File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 Package pdftex.def Info: EDCI631syllabusfall13.pdf used on input line 34.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<EDCI631syllabusfall13.pdf, id=352, page=2, 614.295pt x 794.97pt>
+<EDCI631syllabusfall13.pdf, id=367, page=2, 614.295pt x 794.97pt>
 File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 
 <use EDCI631syllabusfall13.pdf, page 2>
@@ -575,7 +575,7 @@ Package pdftex.def Info: EDCI631syllabusfall13.pdf, page2 used on input line 34
 .
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<EDCI631syllabusfall13.pdf, id=353, page=3, 614.295pt x 794.97pt>
+<EDCI631syllabusfall13.pdf, id=368, page=3, 614.295pt x 794.97pt>
 File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 
 <use EDCI631syllabusfall13.pdf, page 3>
@@ -596,7 +596,7 @@ Package pdftex.def Info: EDCI631syllabusfall13.pdf, page2 used on input line 34
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [10 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/EDCI631syllabusfall1
 3.pdf>]
-<EDCI631syllabusfall13.pdf, id=359, page=4, 614.295pt x 794.97pt>
+<EDCI631syllabusfall13.pdf, id=374, page=4, 614.295pt x 794.97pt>
 File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 
 <use EDCI631syllabusfall13.pdf, page 4>
@@ -617,7 +617,7 @@ Package pdftex.def Info: EDCI631syllabusfall13.pdf, page3 used on input line 34
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [11 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/EDCI631syllabusfall1
 3.pdf>]
-<EDCI631syllabusfall13.pdf, id=365, page=5, 614.295pt x 794.97pt>
+<EDCI631syllabusfall13.pdf, id=380, page=5, 614.295pt x 794.97pt>
 File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 
 <use EDCI631syllabusfall13.pdf, page 5>
@@ -638,7 +638,7 @@ Package pdftex.def Info: EDCI631syllabusfall13.pdf, page4 used on input line 34
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [12 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/EDCI631syllabusfall1
 3.pdf>]
-<EDCI631syllabusfall13.pdf, id=372, page=6, 614.295pt x 794.97pt>
+<EDCI631syllabusfall13.pdf, id=387, page=6, 614.295pt x 794.97pt>
 File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 
 <use EDCI631syllabusfall13.pdf, page 6>
@@ -659,7 +659,7 @@ Package pdftex.def Info: EDCI631syllabusfall13.pdf, page5 used on input line 34
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [13 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/EDCI631syllabusfall1
 3.pdf>]
-<EDCI631syllabusfall13.pdf, id=378, page=7, 614.295pt x 794.97pt>
+<EDCI631syllabusfall13.pdf, id=393, page=7, 614.295pt x 794.97pt>
 File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 
 <use EDCI631syllabusfall13.pdf, page 7>
@@ -680,7 +680,7 @@ Package pdftex.def Info: EDCI631syllabusfall13.pdf, page6 used on input line 34
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [14 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/EDCI631syllabusfall1
 3.pdf>]
-<EDCI631syllabusfall13.pdf, id=384, page=8, 614.295pt x 794.97pt>
+<EDCI631syllabusfall13.pdf, id=399, page=8, 614.295pt x 794.97pt>
 File: EDCI631syllabusfall13.pdf Graphic file (type pdf)
 
 <use EDCI631syllabusfall13.pdf, page 8>
@@ -709,7 +709,7 @@ Package pdftex.def Info: EDCI631syllabusfall13.pdf, page8 used on input line 34
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [16 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/EDCI631syllabusfall1
 3.pdf>]
-<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=395, 614.295pt x 794.
+<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=410, 614.295pt x 794.
 97pt>
 File: Reducing_Arrests_&_Hospitalization_working_draft.pdf Graphic file (type p
 df)
@@ -725,7 +725,7 @@ Package pdftex.def Info: Reducing_Arrests_&_Hospitalization_working_draft.pdf u
 sed on input line 37.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=398, page=1, 614.295p
+<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=413, page=1, 614.295p
 t x 794.97pt>
 File: Reducing_Arrests_&_Hospitalization_working_draft.pdf Graphic file (type p
 df)
@@ -779,7 +779,7 @@ Package pdftex.def Info: Reducing_Arrests_&_Hospitalization_working_draft.pdf u
 sed on input line 38.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=413, page=2, 614.295p
+<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=428, page=2, 614.295p
 t x 794.97pt>
 File: Reducing_Arrests_&_Hospitalization_working_draft.pdf Graphic file (type p
 df)
@@ -810,7 +810,7 @@ Package pdftex.def Info: Reducing_Arrests_&_Hospitalization_working_draft.pdf,
 page2 used on input line 38.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=414, page=3, 614.295p
+<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=429, page=3, 614.295p
 t x 794.97pt>
 File: Reducing_Arrests_&_Hospitalization_working_draft.pdf Graphic file (type p
 df)
@@ -835,7 +835,7 @@ page2 used on input line 38.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [18 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Reducing_Arrests_&_H
 ospitalization_working_draft.pdf>]
-<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=428, page=4, 614.295p
+<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=443, page=4, 614.295p
 t x 794.97pt>
 File: Reducing_Arrests_&_Hospitalization_working_draft.pdf Graphic file (type p
 df)
@@ -860,7 +860,7 @@ page3 used on input line 38.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [19 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Reducing_Arrests_&_H
 ospitalization_working_draft.pdf>]
-<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=434, page=5, 614.295p
+<Reducing_Arrests_&_Hospitalization_working_draft.pdf, id=449, page=5, 614.295p
 t x 794.97pt>
 File: Reducing_Arrests_&_Hospitalization_working_draft.pdf Graphic file (type p
 df)
@@ -927,7 +927,7 @@ ospitalization_working_draft.pdf>] [22]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<CTE632SylbsOnLine139.pdf, id=457, 614.295pt x 794.97pt>
+<CTE632SylbsOnLine139.pdf, id=472, 614.295pt x 794.97pt>
 File: CTE632SylbsOnLine139.pdf Graphic file (type pdf)
 
 <use CTE632SylbsOnLine139.pdf>
@@ -938,7 +938,7 @@ File: CTE632SylbsOnLine139.pdf Graphic file (type pdf)
 Package pdftex.def Info: CTE632SylbsOnLine139.pdf used on input line 53.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<CTE632SylbsOnLine139.pdf, id=460, page=1, 614.295pt x 794.97pt>
+<CTE632SylbsOnLine139.pdf, id=475, page=1, 614.295pt x 794.97pt>
 File: CTE632SylbsOnLine139.pdf Graphic file (type pdf)
 
 <use CTE632SylbsOnLine139.pdf, page 1>
@@ -981,7 +981,7 @@ File: CTE632SylbsOnLine139.pdf Graphic file (type pdf)
 Package pdftex.def Info: CTE632SylbsOnLine139.pdf used on input line 55.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<CTE632SylbsOnLine139.pdf, id=490, page=2, 614.295pt x 794.97pt>
+<CTE632SylbsOnLine139.pdf, id=505, page=2, 614.295pt x 794.97pt>
 File: CTE632SylbsOnLine139.pdf Graphic file (type pdf)
 
 <use CTE632SylbsOnLine139.pdf, page 2>
@@ -1005,7 +1005,7 @@ Package pdftex.def Info: CTE632SylbsOnLine139.pdf, page2 used on input line 55.
 
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<CTE632SylbsOnLine139.pdf, id=491, page=3, 614.295pt x 794.97pt>
+<CTE632SylbsOnLine139.pdf, id=506, page=3, 614.295pt x 794.97pt>
 File: CTE632SylbsOnLine139.pdf Graphic file (type pdf)
 
 <use CTE632SylbsOnLine139.pdf, page 3>
@@ -1027,7 +1027,7 @@ Package pdftex.def Info: CTE632SylbsOnLine139.pdf, page2 used on input line 55.
 
  </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/CTE632SylbsOnLine139.pdf
 >]
-<CTE632SylbsOnLine139.pdf, id=498, page=4, 614.295pt x 794.97pt>
+<CTE632SylbsOnLine139.pdf, id=513, page=4, 614.295pt x 794.97pt>
 File: CTE632SylbsOnLine139.pdf Graphic file (type pdf)
 
 <use CTE632SylbsOnLine139.pdf, page 4>
@@ -1088,7 +1088,7 @@ Package pdftex.def Info: CTE632SylbsOnLine139.pdf, page4 used on input line 55.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<Book_review.pdf, id=509, 614.295pt x 794.97pt>
+<Book_review.pdf, id=524, 614.295pt x 794.97pt>
 File: Book_review.pdf Graphic file (type pdf)
  <use Book_review.pdf>
 Package pdftex.def Info: Book_review.pdf used on input line 59.
@@ -1098,7 +1098,7 @@ File: Book_review.pdf Graphic file (type pdf)
 <use Book_review.pdf>
 Package pdftex.def Info: Book_review.pdf used on input line 59.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- <Book_review.pdf, id=512, page=1, 614.295pt x 794.97pt>
+ <Book_review.pdf, id=527, page=1, 614.295pt x 794.97pt>
 File: Book_review.pdf Graphic file (type pdf)
 
 <use Book_review.pdf, page 1>
@@ -1134,7 +1134,7 @@ File: Book_review.pdf Graphic file (type pdf)
 Package pdftex.def Info: Book_review.pdf used on input line 61.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Book_review.pdf, id=537, page=2, 614.295pt x 794.97pt>
+<Book_review.pdf, id=552, page=2, 614.295pt x 794.97pt>
 File: Book_review.pdf Graphic file (type pdf)
 
 <use Book_review.pdf, page 2>
@@ -1154,7 +1154,7 @@ File: Book_review.pdf Graphic file (type pdf)
 Package pdftex.def Info: Book_review.pdf, page2 used on input line 61.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<Book_review.pdf, id=538, page=3, 614.295pt x 794.97pt>
+<Book_review.pdf, id=553, page=3, 614.295pt x 794.97pt>
 File: Book_review.pdf Graphic file (type pdf)
 
 <use Book_review.pdf, page 3>
@@ -1172,7 +1172,7 @@ Package pdftex.def Info: Book_review.pdf, page2 used on input line 61.
  [28
 
  </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Book_review.pdf>]
-<Book_review.pdf, id=544, page=4, 614.295pt x 794.97pt>
+<Book_review.pdf, id=559, page=4, 614.295pt x 794.97pt>
 File: Book_review.pdf Graphic file (type pdf)
 
 <use Book_review.pdf, page 4>
@@ -1188,7 +1188,7 @@ File: Book_review.pdf Graphic file (type pdf)
 Package pdftex.def Info: Book_review.pdf, page3 used on input line 61.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [29 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Book_review.pdf>]
-<Book_review.pdf, id=550, page=5, 614.295pt x 794.97pt>
+<Book_review.pdf, id=565, page=5, 614.295pt x 794.97pt>
 File: Book_review.pdf Graphic file (type pdf)
 
 <use Book_review.pdf, page 5>
@@ -1243,7 +1243,7 @@ Package pdftex.def Info: Book_review.pdf, page5 used on input line 61.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<Syllabus_MGMT630.pdf, id=577, 614.295pt x 794.97pt>
+<Syllabus_MGMT630.pdf, id=592, 614.295pt x 794.97pt>
 File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 
 <use Syllabus_MGMT630.pdf>
@@ -1254,7 +1254,7 @@ File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 Package pdftex.def Info: Syllabus_MGMT630.pdf used on input line 73.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_MGMT630.pdf, id=580, page=1, 614.295pt x 794.97pt>
+<Syllabus_MGMT630.pdf, id=595, page=1, 614.295pt x 794.97pt>
 File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 
 <use Syllabus_MGMT630.pdf, page 1>
@@ -1291,7 +1291,7 @@ File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 Package pdftex.def Info: Syllabus_MGMT630.pdf used on input line 75.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_MGMT630.pdf, id=628, page=2, 614.295pt x 794.97pt>
+<Syllabus_MGMT630.pdf, id=644, page=2, 614.295pt x 794.97pt>
 File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 
 <use Syllabus_MGMT630.pdf, page 2>
@@ -1311,7 +1311,7 @@ File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 Package pdftex.def Info: Syllabus_MGMT630.pdf, page2 used on input line 75.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<Syllabus_MGMT630.pdf, id=629, page=3, 614.295pt x 794.97pt>
+<Syllabus_MGMT630.pdf, id=645, page=3, 614.295pt x 794.97pt>
 File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 
 <use Syllabus_MGMT630.pdf, page 3>
@@ -1329,7 +1329,7 @@ Package pdftex.def Info: Syllabus_MGMT630.pdf, page2 used on input line 75.
  [34
 
  </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MGMT630.pdf>]
-<Syllabus_MGMT630.pdf, id=654, page=4, 614.295pt x 794.97pt>
+<Syllabus_MGMT630.pdf, id=669, page=4, 614.295pt x 794.97pt>
 File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 
 <use Syllabus_MGMT630.pdf, page 4>
@@ -1346,7 +1346,7 @@ Package pdftex.def Info: Syllabus_MGMT630.pdf, page3 used on input line 75.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [35 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MGMT630.pdf
 >]
-<Syllabus_MGMT630.pdf, id=666, page=5, 614.295pt x 794.97pt>
+<Syllabus_MGMT630.pdf, id=681, page=5, 614.295pt x 794.97pt>
 File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 
 <use Syllabus_MGMT630.pdf, page 5>
@@ -1363,7 +1363,7 @@ Package pdftex.def Info: Syllabus_MGMT630.pdf, page4 used on input line 75.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [36 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MGMT630.pdf
 >]
-<Syllabus_MGMT630.pdf, id=674, page=6, 614.295pt x 794.97pt>
+<Syllabus_MGMT630.pdf, id=689, page=6, 614.295pt x 794.97pt>
 File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 
 <use Syllabus_MGMT630.pdf, page 6>
@@ -1426,7 +1426,7 @@ Missing character: There is no ù in font cmr12!
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- <Ca610Spring2014.pdf, id=700, 614.295pt x 794.97pt>
+ <Ca610Spring2014.pdf, id=715, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf>
@@ -1437,7 +1437,7 @@ File: Ca610Spring2014.pdf Graphic file (type pdf)
 Package pdftex.def Info: Ca610Spring2014.pdf used on input line 85.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Ca610Spring2014.pdf, id=703, page=1, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=718, page=1, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 1>
@@ -1474,7 +1474,7 @@ File: Ca610Spring2014.pdf Graphic file (type pdf)
 Package pdftex.def Info: Ca610Spring2014.pdf used on input line 87.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Ca610Spring2014.pdf, id=747, page=2, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=762, page=2, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 2>
@@ -1494,7 +1494,7 @@ File: Ca610Spring2014.pdf Graphic file (type pdf)
 Package pdftex.def Info: Ca610Spring2014.pdf, page2 used on input line 87.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<Ca610Spring2014.pdf, id=748, page=3, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=763, page=3, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 3>
@@ -1512,7 +1512,7 @@ Package pdftex.def Info: Ca610Spring2014.pdf, page2 used on input line 87.
  [41
 
  </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Ca610Spring2014.pdf>]
-<Ca610Spring2014.pdf, id=754, page=4, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=769, page=4, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 4>
@@ -1529,7 +1529,7 @@ Package pdftex.def Info: Ca610Spring2014.pdf, page3 used on input line 87.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [42 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Ca610Spring2014.pdf>
 ]
-<Ca610Spring2014.pdf, id=769, page=5, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=784, page=5, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 5>
@@ -1546,7 +1546,7 @@ Package pdftex.def Info: Ca610Spring2014.pdf, page4 used on input line 87.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [43 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Ca610Spring2014.pdf>
 ]
-<Ca610Spring2014.pdf, id=779, page=6, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=794, page=6, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 6>
@@ -1563,7 +1563,7 @@ Package pdftex.def Info: Ca610Spring2014.pdf, page5 used on input line 87.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [44 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Ca610Spring2014.pdf>
 ]
-<Ca610Spring2014.pdf, id=789, page=7, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=804, page=7, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 7>
@@ -1580,7 +1580,7 @@ Package pdftex.def Info: Ca610Spring2014.pdf, page6 used on input line 87.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [45 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Ca610Spring2014.pdf>
 ]
-<Ca610Spring2014.pdf, id=795, page=8, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=810, page=8, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 8>
@@ -1597,7 +1597,7 @@ Package pdftex.def Info: Ca610Spring2014.pdf, page7 used on input line 87.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [46 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Ca610Spring2014.pdf>
 ]
-<Ca610Spring2014.pdf, id=801, page=9, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=816, page=9, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 9>
@@ -1614,7 +1614,7 @@ Package pdftex.def Info: Ca610Spring2014.pdf, page8 used on input line 87.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [47 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Ca610Spring2014.pdf>
 ]
-<Ca610Spring2014.pdf, id=807, page=10, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=822, page=10, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 10>
@@ -1631,7 +1631,7 @@ Package pdftex.def Info: Ca610Spring2014.pdf, page9 used on input line 87.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [48 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Ca610Spring2014.pdf>
 ]
-<Ca610Spring2014.pdf, id=814, page=11, 614.295pt x 794.97pt>
+<Ca610Spring2014.pdf, id=829, page=11, 614.295pt x 794.97pt>
 File: Ca610Spring2014.pdf Graphic file (type pdf)
 
 <use Ca610Spring2014.pdf, page 11>
@@ -1654,7 +1654,7 @@ Package pdftex.def Info: Ca610Spring2014.pdf, page11 used on input line 87.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [50 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Ca610Spring2014.pdf>
 ]
-<Case_Studies_W-Q.pdf, id=825, 614.295pt x 794.97pt>
+<Case_Studies_W-Q.pdf, id=840, 614.295pt x 794.97pt>
 File: Case_Studies_W-Q.pdf Graphic file (type pdf)
 
 <use Case_Studies_W-Q.pdf>
@@ -1665,7 +1665,7 @@ File: Case_Studies_W-Q.pdf Graphic file (type pdf)
 Package pdftex.def Info: Case_Studies_W-Q.pdf used on input line 88.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Case_Studies_W-Q.pdf, id=828, page=1, 614.295pt x 794.97pt>
+<Case_Studies_W-Q.pdf, id=843, page=1, 614.295pt x 794.97pt>
 File: Case_Studies_W-Q.pdf Graphic file (type pdf)
 
 <use Case_Studies_W-Q.pdf, page 1>
@@ -1701,7 +1701,7 @@ File: Case_Studies_W-Q.pdf Graphic file (type pdf)
 Package pdftex.def Info: Case_Studies_W-Q.pdf used on input line 89.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Case_Studies_W-Q.pdf, id=842, page=2, 614.295pt x 794.97pt>
+<Case_Studies_W-Q.pdf, id=857, page=2, 614.295pt x 794.97pt>
 File: Case_Studies_W-Q.pdf Graphic file (type pdf)
 
 <use Case_Studies_W-Q.pdf, page 2>
@@ -1721,7 +1721,7 @@ File: Case_Studies_W-Q.pdf Graphic file (type pdf)
 Package pdftex.def Info: Case_Studies_W-Q.pdf, page2 used on input line 89.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<Case_Studies_W-Q.pdf, id=843, page=3, 614.295pt x 794.97pt>
+<Case_Studies_W-Q.pdf, id=858, page=3, 614.295pt x 794.97pt>
 File: Case_Studies_W-Q.pdf Graphic file (type pdf)
 
 <use Case_Studies_W-Q.pdf, page 3>
@@ -1778,7 +1778,7 @@ Package pdftex.def Info: Case_Studies_W-Q.pdf, page3 used on input line 89.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=871, 614.295pt x 794.97pt>
+<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=886, 614.295pt x 794.97pt>
 File: Syllabus_MGMT639-79B1_NGallegos_1148.pdf Graphic file (type pdf)
 
 <use Syllabus_MGMT639-79B1_NGallegos_1148.pdf>
@@ -1792,7 +1792,7 @@ Package pdftex.def Info: Syllabus_MGMT639-79B1_NGallegos_1148.pdf used on input
  line 106.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=874, page=1, 614.295pt x 794.97pt
+<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=889, page=1, 614.295pt x 794.97pt
 >
 File: Syllabus_MGMT639-79B1_NGallegos_1148.pdf Graphic file (type pdf)
  <use Syllabus_MGMT639-79B1_NGallegos_1148.pdf, page 1>
@@ -1840,7 +1840,7 @@ Package pdftex.def Info: Syllabus_MGMT639-79B1_NGallegos_1148.pdf used on input
  line 108.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=927, page=2, 614.295pt x 794.97pt
+<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=942, page=2, 614.295pt x 794.97pt
 >
 File: Syllabus_MGMT639-79B1_NGallegos_1148.pdf Graphic file (type pdf)
  <use Syllabus_MGMT639-79B1_NGallegos_1148.pdf, page 2>
@@ -1866,7 +1866,7 @@ Package pdftex.def Info: Syllabus_MGMT639-79B1_NGallegos_1148.pdf, page2 used o
 n input line 108.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=928, page=3, 614.295pt x 794.97pt
+<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=943, page=3, 614.295pt x 794.97pt
 >
 File: Syllabus_MGMT639-79B1_NGallegos_1148.pdf Graphic file (type pdf)
  <use Syllabus_MGMT639-79B1_NGallegos_1148.pdf, page 3>
@@ -1889,7 +1889,7 @@ n input line 108.
 
  </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MGMT639-79B1_NG
 allegos_1148.pdf>]
-<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=946, page=4, 614.295pt x 794.97pt
+<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=961, page=4, 614.295pt x 794.97pt
 >
 File: Syllabus_MGMT639-79B1_NGallegos_1148.pdf Graphic file (type pdf)
  <use Syllabus_MGMT639-79B1_NGallegos_1148.pdf, page 4>
@@ -1910,7 +1910,7 @@ n input line 108.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [57 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MGMT639-79B
 1_NGallegos_1148.pdf>]
-<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=970, page=5, 614.295pt x 794.97pt
+<Syllabus_MGMT639-79B1_NGallegos_1148.pdf, id=985, page=5, 614.295pt x 794.97pt
 >
 File: Syllabus_MGMT639-79B1_NGallegos_1148.pdf Graphic file (type pdf)
  <use Syllabus_MGMT639-79B1_NGallegos_1148.pdf, page 5>
@@ -1972,7 +1972,7 @@ n input line 108.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<bl_weeklys.pdf, id=982, 614.295pt x 794.97pt>
+<bl_weeklys.pdf, id=997, 614.295pt x 794.97pt>
 File: bl_weeklys.pdf Graphic file (type pdf)
  <use bl_weeklys.pdf>
 Package pdftex.def Info: bl_weeklys.pdf used on input line 111.
@@ -1982,7 +1982,7 @@ File: bl_weeklys.pdf Graphic file (type pdf)
 <use bl_weeklys.pdf>
 Package pdftex.def Info: bl_weeklys.pdf used on input line 111.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- <bl_weeklys.pdf, id=985, page=1, 614.295pt x 794.97pt>
+ <bl_weeklys.pdf, id=1000, page=1, 614.295pt x 794.97pt>
 File: bl_weeklys.pdf Graphic file (type pdf)
 
 <use bl_weeklys.pdf, page 1>
@@ -2018,7 +2018,7 @@ File: bl_weeklys.pdf Graphic file (type pdf)
 Package pdftex.def Info: bl_weeklys.pdf used on input line 113.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<bl_weeklys.pdf, id=1005, page=2, 614.295pt x 794.97pt>
+<bl_weeklys.pdf, id=1020, page=2, 614.295pt x 794.97pt>
 File: bl_weeklys.pdf Graphic file (type pdf)
 
 <use bl_weeklys.pdf, page 2>
@@ -2038,7 +2038,7 @@ File: bl_weeklys.pdf Graphic file (type pdf)
 Package pdftex.def Info: bl_weeklys.pdf, page2 used on input line 113.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<bl_weeklys.pdf, id=1006, page=3, 614.295pt x 794.97pt>
+<bl_weeklys.pdf, id=1021, page=3, 614.295pt x 794.97pt>
 File: bl_weeklys.pdf Graphic file (type pdf)
 
 <use bl_weeklys.pdf, page 3>
@@ -2056,7 +2056,7 @@ Package pdftex.def Info: bl_weeklys.pdf, page2 used on input line 113.
  [61
 
  </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/bl_weeklys.pdf>]
-<bl_weeklys.pdf, id=1012, page=4, 614.295pt x 794.97pt>
+<bl_weeklys.pdf, id=1027, page=4, 614.295pt x 794.97pt>
 File: bl_weeklys.pdf Graphic file (type pdf)
 
 <use bl_weeklys.pdf, page 4>
@@ -2072,7 +2072,7 @@ File: bl_weeklys.pdf Graphic file (type pdf)
 Package pdftex.def Info: bl_weeklys.pdf, page3 used on input line 113.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [62 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/bl_weeklys.pdf>]
-<bl_weeklys.pdf, id=1018, page=5, 614.295pt x 794.97pt>
+<bl_weeklys.pdf, id=1033, page=5, 614.295pt x 794.97pt>
 File: bl_weeklys.pdf Graphic file (type pdf)
 
 <use bl_weeklys.pdf, page 5>
@@ -2088,7 +2088,7 @@ File: bl_weeklys.pdf Graphic file (type pdf)
 Package pdftex.def Info: bl_weeklys.pdf, page4 used on input line 113.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [63 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/bl_weeklys.pdf>]
-<bl_weeklys.pdf, id=1024, page=6, 614.295pt x 794.97pt>
+<bl_weeklys.pdf, id=1039, page=6, 614.295pt x 794.97pt>
 File: bl_weeklys.pdf Graphic file (type pdf)
 
 <use bl_weeklys.pdf, page 6>
@@ -2269,7 +2269,7 @@ File: Syllabus_MGMT630.pdf Graphic file (type pdf)
 Package pdftex.def Info: Syllabus_MGMT630.pdf, page6 used on input line 130.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-[72] <org_behavior_rs.pdf, id=1074, 614.295pt x 794.97pt>
+[72] <org_behavior_rs.pdf, id=1089, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf>
@@ -2280,7 +2280,7 @@ File: org_behavior_rs.pdf Graphic file (type pdf)
 Package pdftex.def Info: org_behavior_rs.pdf used on input line 131.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<org_behavior_rs.pdf, id=1077, page=1, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1092, page=1, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 1>
@@ -2316,7 +2316,7 @@ File: org_behavior_rs.pdf Graphic file (type pdf)
 Package pdftex.def Info: org_behavior_rs.pdf used on input line 132.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<org_behavior_rs.pdf, id=1095, page=2, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1110, page=2, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 2>
@@ -2336,7 +2336,7 @@ File: org_behavior_rs.pdf Graphic file (type pdf)
 Package pdftex.def Info: org_behavior_rs.pdf, page2 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<org_behavior_rs.pdf, id=1096, page=3, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1111, page=3, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 3>
@@ -2353,7 +2353,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page2 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [74 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1110, page=4, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1125, page=4, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 4>
@@ -2370,7 +2370,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page3 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [75 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1116, page=5, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1131, page=5, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 5>
@@ -2387,7 +2387,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page4 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [76 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1122, page=6, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1137, page=6, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 6>
@@ -2404,7 +2404,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page5 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [77 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1128, page=7, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1143, page=7, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 7>
@@ -2421,7 +2421,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page6 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [78 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1138, page=8, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1153, page=8, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 8>
@@ -2438,7 +2438,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page7 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [79 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1144, page=9, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1159, page=9, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 9>
@@ -2455,7 +2455,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page8 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [80 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1150, page=10, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1165, page=10, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 10>
@@ -2472,7 +2472,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page9 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [81 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1156, page=11, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1171, page=11, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 11>
@@ -2489,7 +2489,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page10 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [82 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1162, page=12, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1177, page=12, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 12>
@@ -2506,7 +2506,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page11 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [83 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1168, page=13, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1183, page=13, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 13>
@@ -2523,7 +2523,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page12 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [84 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1175, page=14, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1190, page=14, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 14>
@@ -2540,7 +2540,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page13 used on input line 132.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [85 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/org_behavior_rs.pdf>
 ]
-<org_behavior_rs.pdf, id=1181, page=15, 614.295pt x 794.97pt>
+<org_behavior_rs.pdf, id=1196, page=15, 614.295pt x 794.97pt>
 File: org_behavior_rs.pdf Graphic file (type pdf)
 
 <use org_behavior_rs.pdf, page 15>
@@ -2596,7 +2596,7 @@ Package pdftex.def Info: org_behavior_rs.pdf, page15 used on input line 132.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- <Syllabus_MATH631-7901_RStack_1151.pdf, id=1206, 614.295pt x 794.97pt>
+ <Syllabus_MATH631-7901_RStack_1151.pdf, id=1221, 614.295pt x 794.97pt>
 File: Syllabus_MATH631-7901_RStack_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_MATH631-7901_RStack_1151.pdf>
@@ -2610,7 +2610,7 @@ Package pdftex.def Info: Syllabus_MATH631-7901_RStack_1151.pdf used on input li
 ne 146.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_MATH631-7901_RStack_1151.pdf, id=1209, page=1, 614.295pt x 794.97pt>
+<Syllabus_MATH631-7901_RStack_1151.pdf, id=1224, page=1, 614.295pt x 794.97pt>
 File: Syllabus_MATH631-7901_RStack_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_MATH631-7901_RStack_1151.pdf, page 1>
@@ -2658,7 +2658,7 @@ Package pdftex.def Info: Syllabus_MATH631-7901_RStack_1151.pdf used on input li
 ne 148.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_MATH631-7901_RStack_1151.pdf, id=1223, page=2, 614.295pt x 794.97pt>
+<Syllabus_MATH631-7901_RStack_1151.pdf, id=1238, page=2, 614.295pt x 794.97pt>
 File: Syllabus_MATH631-7901_RStack_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_MATH631-7901_RStack_1151.pdf, page 2>
@@ -2684,7 +2684,7 @@ Package pdftex.def Info: Syllabus_MATH631-7901_RStack_1151.pdf, page2 used on i
 nput line 148.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<Syllabus_MATH631-7901_RStack_1151.pdf, id=1224, page=3, 614.295pt x 794.97pt>
+<Syllabus_MATH631-7901_RStack_1151.pdf, id=1239, page=3, 614.295pt x 794.97pt>
 File: Syllabus_MATH631-7901_RStack_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_MATH631-7901_RStack_1151.pdf, page 3>
@@ -2748,7 +2748,7 @@ nput line 148.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<project_4.pdf, id=1252, 614.295pt x 794.97pt>
+<project_4.pdf, id=1267, 614.295pt x 794.97pt>
 File: project_4.pdf Graphic file (type pdf)
  <use project_4.pdf>
 Package pdftex.def Info: project_4.pdf used on input line 151.
@@ -2758,7 +2758,7 @@ File: project_4.pdf Graphic file (type pdf)
 <use project_4.pdf>
 Package pdftex.def Info: project_4.pdf used on input line 151.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- <project_4.pdf, id=1255, page=1, 614.295pt x 794.97pt>
+ <project_4.pdf, id=1270, page=1, 614.295pt x 794.97pt>
 File: project_4.pdf Graphic file (type pdf)
 
 <use project_4.pdf, page 1>
@@ -2794,7 +2794,7 @@ File: project_4.pdf Graphic file (type pdf)
 Package pdftex.def Info: project_4.pdf used on input line 153.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<project_4.pdf, id=1273, page=2, 614.295pt x 794.97pt>
+<project_4.pdf, id=1288, page=2, 614.295pt x 794.97pt>
 File: project_4.pdf Graphic file (type pdf)
 
 <use project_4.pdf, page 2>
@@ -2814,7 +2814,7 @@ File: project_4.pdf Graphic file (type pdf)
 Package pdftex.def Info: project_4.pdf, page2 used on input line 153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<project_4.pdf, id=1274, page=3, 614.295pt x 794.97pt>
+<project_4.pdf, id=1289, page=3, 614.295pt x 794.97pt>
 File: project_4.pdf Graphic file (type pdf)
 
 <use project_4.pdf, page 3>
@@ -2832,7 +2832,7 @@ Package pdftex.def Info: project_4.pdf, page2 used on input line 153.
  [93
 
  </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/project_4.pdf>] <project
-_4.pdf, id=1280, page=4, 614.295pt x 794.97pt>
+_4.pdf, id=1295, page=4, 614.295pt x 794.97pt>
 File: project_4.pdf Graphic file (type pdf)
 
 <use project_4.pdf, page 4>
@@ -2848,7 +2848,7 @@ File: project_4.pdf Graphic file (type pdf)
 Package pdftex.def Info: project_4.pdf, page3 used on input line 153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [94 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/project_4.pdf>] <pro
-ject_4.pdf, id=1286, page=5, 614.295pt x 794.97pt>
+ject_4.pdf, id=1301, page=5, 614.295pt x 794.97pt>
 File: project_4.pdf Graphic file (type pdf)
 
 <use project_4.pdf, page 5>
@@ -2869,7 +2869,7 @@ File: project_4.pdf Graphic file (type pdf)
 Package pdftex.def Info: project_4.pdf, page5 used on input line 153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [96 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/project_4.pdf>]
-<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1298, 614.295pt x 794.97pt>
+<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1313, 614.295pt x 794.97pt>
 File: Syllabus_EDAD631-7901_LBrown_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_EDAD631-7901_LBrown_1151.pdf>
@@ -2883,7 +2883,7 @@ Package pdftex.def Info: Syllabus_EDAD631-7901_LBrown_1151.pdf used on input li
 ne 168.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1301, page=1, 614.295pt x 794.97pt>
+<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1316, page=1, 614.295pt x 794.97pt>
 File: Syllabus_EDAD631-7901_LBrown_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_EDAD631-7901_LBrown_1151.pdf, page 1>
@@ -2930,7 +2930,7 @@ Package pdftex.def Info: Syllabus_EDAD631-7901_LBrown_1151.pdf used on input li
 ne 169.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1349, page=2, 614.295pt x 794.97pt>
+<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1364, page=2, 614.295pt x 794.97pt>
 File: Syllabus_EDAD631-7901_LBrown_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_EDAD631-7901_LBrown_1151.pdf, page 2>
@@ -2956,7 +2956,7 @@ Package pdftex.def Info: Syllabus_EDAD631-7901_LBrown_1151.pdf, page2 used on i
 nput line 169.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1350, page=3, 614.295pt x 794.97pt>
+<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1365, page=3, 614.295pt x 794.97pt>
 File: Syllabus_EDAD631-7901_LBrown_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_EDAD631-7901_LBrown_1151.pdf, page 3>
@@ -2977,7 +2977,7 @@ nput line 169.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [99 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_EDAD631-790
 1_LBrown_1151.pdf>]
-<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1358, page=4, 614.295pt x 794.97pt>
+<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1373, page=4, 614.295pt x 794.97pt>
 File: Syllabus_EDAD631-7901_LBrown_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_EDAD631-7901_LBrown_1151.pdf, page 4>
@@ -2998,7 +2998,7 @@ nput line 169.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [100 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_EDAD631-79
 01_LBrown_1151.pdf>]
-<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1375, page=5, 614.295pt x 794.97pt>
+<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1390, page=5, 614.295pt x 794.97pt>
 File: Syllabus_EDAD631-7901_LBrown_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_EDAD631-7901_LBrown_1151.pdf, page 5>
@@ -3019,7 +3019,7 @@ nput line 169.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [101 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_EDAD631-79
 01_LBrown_1151.pdf>]
-<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1381, page=6, 614.295pt x 794.97pt>
+<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1396, page=6, 614.295pt x 794.97pt>
 File: Syllabus_EDAD631-7901_LBrown_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_EDAD631-7901_LBrown_1151.pdf, page 6>
@@ -3040,7 +3040,7 @@ nput line 169.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [102 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_EDAD631-79
 01_LBrown_1151.pdf>]
-<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1388, page=7, 614.295pt x 794.97pt>
+<Syllabus_EDAD631-7901_LBrown_1151.pdf, id=1403, page=7, 614.295pt x 794.97pt>
 File: Syllabus_EDAD631-7901_LBrown_1151.pdf Graphic file (type pdf)
 
 <use Syllabus_EDAD631-7901_LBrown_1151.pdf, page 7>
@@ -3103,7 +3103,7 @@ nput line 169.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1415, 614.295pt x 794.97pt>
+<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1430, 614.295pt x 794.97pt>
 File: Syllabus_MGMT610-79B2_DLeland_1158.pdf Graphic file (type pdf)
 
 <use Syllabus_MGMT610-79B2_DLeland_1158.pdf>
@@ -3117,7 +3117,7 @@ Package pdftex.def Info: Syllabus_MGMT610-79B2_DLeland_1158.pdf used on input l
 ine 190.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1418, page=1, 614.295pt x 794.97pt>
+<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1433, page=1, 614.295pt x 794.97pt>
 File: Syllabus_MGMT610-79B2_DLeland_1158.pdf Graphic file (type pdf)
 <use Syllabus_MGMT610-79B2_DLeland_1158.pdf, page 1>
 Package pdftex.def Info: Syllabus_MGMT610-79B2_DLeland_1158.pdf, page1 used on 
@@ -3164,7 +3164,7 @@ Package pdftex.def Info: Syllabus_MGMT610-79B2_DLeland_1158.pdf used on input l
 ine 192.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1463, page=2, 614.295pt x 794.97pt>
+<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1478, page=2, 614.295pt x 794.97pt>
 File: Syllabus_MGMT610-79B2_DLeland_1158.pdf Graphic file (type pdf)
 <use Syllabus_MGMT610-79B2_DLeland_1158.pdf, page 2>
 Package pdftex.def Info: Syllabus_MGMT610-79B2_DLeland_1158.pdf, page2 used on 
@@ -3189,7 +3189,7 @@ Package pdftex.def Info: Syllabus_MGMT610-79B2_DLeland_1158.pdf, page2 used on
 input line 192.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1464, page=3, 614.295pt x 794.97pt>
+<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1479, page=3, 614.295pt x 794.97pt>
 File: Syllabus_MGMT610-79B2_DLeland_1158.pdf Graphic file (type pdf)
 <use Syllabus_MGMT610-79B2_DLeland_1158.pdf, page 3>
 Package pdftex.def Info: Syllabus_MGMT610-79B2_DLeland_1158.pdf, page3 used on 
@@ -3211,7 +3211,7 @@ input line 192.
 
  </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MGMT610-79B2_DL
 eland_1158.pdf>]
-<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1480, page=4, 614.295pt x 794.97pt>
+<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1496, page=4, 614.295pt x 794.97pt>
 File: Syllabus_MGMT610-79B2_DLeland_1158.pdf Graphic file (type pdf)
 <use Syllabus_MGMT610-79B2_DLeland_1158.pdf, page 4>
 Package pdftex.def Info: Syllabus_MGMT610-79B2_DLeland_1158.pdf, page4 used on 
@@ -3231,7 +3231,7 @@ input line 192.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [109 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MGMT610-79
 B2_DLeland_1158.pdf>]
-<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1495, page=5, 614.295pt x 794.97pt>
+<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1510, page=5, 614.295pt x 794.97pt>
 File: Syllabus_MGMT610-79B2_DLeland_1158.pdf Graphic file (type pdf)
 <use Syllabus_MGMT610-79B2_DLeland_1158.pdf, page 5>
 Package pdftex.def Info: Syllabus_MGMT610-79B2_DLeland_1158.pdf, page5 used on 
@@ -3251,7 +3251,7 @@ input line 192.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [110 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MGMT610-79
 B2_DLeland_1158.pdf>]
-<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1502, page=6, 614.295pt x 794.97pt>
+<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1517, page=6, 614.295pt x 794.97pt>
 File: Syllabus_MGMT610-79B2_DLeland_1158.pdf Graphic file (type pdf)
 <use Syllabus_MGMT610-79B2_DLeland_1158.pdf, page 6>
 Package pdftex.def Info: Syllabus_MGMT610-79B2_DLeland_1158.pdf, page6 used on 
@@ -3271,7 +3271,7 @@ input line 192.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [111 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MGMT610-79
 B2_DLeland_1158.pdf>]
-<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1511, page=7, 614.295pt x 794.97pt>
+<Syllabus_MGMT610-79B2_DLeland_1158.pdf, id=1526, page=7, 614.295pt x 794.97pt>
 File: Syllabus_MGMT610-79B2_DLeland_1158.pdf Graphic file (type pdf)
 <use Syllabus_MGMT610-79B2_DLeland_1158.pdf, page 7>
 Package pdftex.def Info: Syllabus_MGMT610-79B2_DLeland_1158.pdf, page7 used on 
@@ -3332,7 +3332,7 @@ B2_DLeland_1158.pdf>]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<hcp_rp.pdf, id=1536, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1551, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf>
 Package pdftex.def Info: hcp_rp.pdf used on input line 194.
@@ -3342,7 +3342,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf used on input line 194.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<hcp_rp.pdf, id=1539, page=1, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1554, page=1, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 1>
 Package pdftex.def Info: hcp_rp.pdf, page1 used on input line 194.
@@ -3377,7 +3377,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf used on input line 196.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<hcp_rp.pdf, id=1559, page=2, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1574, page=2, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 2>
 Package pdftex.def Info: hcp_rp.pdf, page2 used on input line 196.
@@ -3396,7 +3396,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf, page2 used on input line 196.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<hcp_rp.pdf, id=1560, page=3, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1575, page=3, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 3>
 Package pdftex.def Info: hcp_rp.pdf, page3 used on input line 196.
@@ -3413,7 +3413,7 @@ Package pdftex.def Info: hcp_rp.pdf, page2 used on input line 196.
  [115
 
  </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/hcp_rp.pdf>]
-<hcp_rp.pdf, id=1566, page=4, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1581, page=4, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 4>
 Package pdftex.def Info: hcp_rp.pdf, page4 used on input line 196.
@@ -3428,7 +3428,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf, page3 used on input line 196.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [116 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/hcp_rp.pdf>]
-<hcp_rp.pdf, id=1572, page=5, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1587, page=5, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 5>
 Package pdftex.def Info: hcp_rp.pdf, page5 used on input line 196.
@@ -3443,7 +3443,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf, page4 used on input line 196.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [117 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/hcp_rp.pdf>]
-<hcp_rp.pdf, id=1578, page=6, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1593, page=6, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 6>
 Package pdftex.def Info: hcp_rp.pdf, page6 used on input line 196.
@@ -3458,7 +3458,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf, page5 used on input line 196.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [118 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/hcp_rp.pdf>]
-<hcp_rp.pdf, id=1584, page=7, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1599, page=7, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 7>
 Package pdftex.def Info: hcp_rp.pdf, page7 used on input line 196.
@@ -3473,7 +3473,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf, page6 used on input line 196.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [119 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/hcp_rp.pdf>]
-<hcp_rp.pdf, id=1590, page=8, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1605, page=8, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 8>
 Package pdftex.def Info: hcp_rp.pdf, page8 used on input line 196.
@@ -3488,7 +3488,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf, page7 used on input line 196.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [120 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/hcp_rp.pdf>]
-<hcp_rp.pdf, id=1597, page=9, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1612, page=9, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 9>
 Package pdftex.def Info: hcp_rp.pdf, page9 used on input line 196.
@@ -3503,7 +3503,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf, page8 used on input line 196.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [121 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/hcp_rp.pdf>]
-<hcp_rp.pdf, id=1603, page=10, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1618, page=10, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 10>
 Package pdftex.def Info: hcp_rp.pdf, page10 used on input line 196.
@@ -3518,7 +3518,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf, page9 used on input line 196.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [122 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/hcp_rp.pdf>]
-<hcp_rp.pdf, id=1609, page=11, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1624, page=11, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 11>
 Package pdftex.def Info: hcp_rp.pdf, page11 used on input line 196.
@@ -3533,7 +3533,7 @@ File: hcp_rp.pdf Graphic file (type pdf)
 Package pdftex.def Info: hcp_rp.pdf, page10 used on input line 196.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [123 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/hcp_rp.pdf>]
-<hcp_rp.pdf, id=1615, page=12, 614.295pt x 794.97pt>
+<hcp_rp.pdf, id=1630, page=12, 614.295pt x 794.97pt>
 File: hcp_rp.pdf Graphic file (type pdf)
  <use hcp_rp.pdf, page 12>
 Package pdftex.def Info: hcp_rp.pdf, page12 used on input line 196.
@@ -3586,7 +3586,7 @@ Package pdftex.def Info: hcp_rp.pdf, page12 used on input line 196.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1637, 614.295pt x 794.97pt>
+<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1652, 614.295pt x 794.97pt>
 File: Syllabus_MKTG630-79A2_GBenson_1158.pdf Graphic file (type pdf)
 
 <use Syllabus_MKTG630-79A2_GBenson_1158.pdf>
@@ -3600,7 +3600,7 @@ Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf used on input l
 ine 213.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1640, page=1, 614.295pt x 794.97pt>
+<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1655, page=1, 614.295pt x 794.97pt>
 File: Syllabus_MKTG630-79A2_GBenson_1158.pdf Graphic file (type pdf)
 <use Syllabus_MKTG630-79A2_GBenson_1158.pdf, page 1>
 Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf, page1 used on 
@@ -3647,7 +3647,7 @@ Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf used on input l
 ine 215.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1689, page=2, 614.295pt x 794.97pt>
+<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1704, page=2, 614.295pt x 794.97pt>
 File: Syllabus_MKTG630-79A2_GBenson_1158.pdf Graphic file (type pdf)
 <use Syllabus_MKTG630-79A2_GBenson_1158.pdf, page 2>
 Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf, page2 used on 
@@ -3672,7 +3672,7 @@ Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf, page2 used on
 input line 215.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1690, page=3, 614.295pt x 794.97pt>
+<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1705, page=3, 614.295pt x 794.97pt>
 File: Syllabus_MKTG630-79A2_GBenson_1158.pdf Graphic file (type pdf)
 <use Syllabus_MKTG630-79A2_GBenson_1158.pdf, page 3>
 Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf, page3 used on 
@@ -3694,7 +3694,7 @@ input line 215.
 
  </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MKTG630-79A2_GB
 enson_1158.pdf>]
-<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1705, page=4, 614.295pt x 794.97pt>
+<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1720, page=4, 614.295pt x 794.97pt>
 File: Syllabus_MKTG630-79A2_GBenson_1158.pdf Graphic file (type pdf)
 <use Syllabus_MKTG630-79A2_GBenson_1158.pdf, page 4>
 Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf, page4 used on 
@@ -3714,7 +3714,7 @@ input line 215.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [129 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MKTG630-79
 A2_GBenson_1158.pdf>]
-<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1714, page=5, 614.295pt x 794.97pt>
+<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1729, page=5, 614.295pt x 794.97pt>
 File: Syllabus_MKTG630-79A2_GBenson_1158.pdf Graphic file (type pdf)
 <use Syllabus_MKTG630-79A2_GBenson_1158.pdf, page 5>
 Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf, page5 used on 
@@ -3734,7 +3734,7 @@ input line 215.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [130 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MKTG630-79
 A2_GBenson_1158.pdf>]
-<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1721, page=6, 614.295pt x 794.97pt>
+<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1736, page=6, 614.295pt x 794.97pt>
 File: Syllabus_MKTG630-79A2_GBenson_1158.pdf Graphic file (type pdf)
 <use Syllabus_MKTG630-79A2_GBenson_1158.pdf, page 6>
 Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf, page6 used on 
@@ -3754,7 +3754,7 @@ input line 215.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [131 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MKTG630-79
 A2_GBenson_1158.pdf>]
-<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1727, page=7, 614.295pt x 794.97pt>
+<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1742, page=7, 614.295pt x 794.97pt>
 File: Syllabus_MKTG630-79A2_GBenson_1158.pdf Graphic file (type pdf)
 <use Syllabus_MKTG630-79A2_GBenson_1158.pdf, page 7>
 Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf, page7 used on 
@@ -3774,7 +3774,7 @@ input line 215.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [132 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/Syllabus_MKTG630-79
 A2_GBenson_1158.pdf>]
-<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1734, page=8, 614.295pt x 794.97pt>
+<Syllabus_MKTG630-79A2_GBenson_1158.pdf, id=1749, page=8, 614.295pt x 794.97pt>
 File: Syllabus_MKTG630-79A2_GBenson_1158.pdf Graphic file (type pdf)
 <use Syllabus_MKTG630-79A2_GBenson_1158.pdf, page 8>
 Package pdftex.def Info: Syllabus_MKTG630-79A2_GBenson_1158.pdf, page8 used on 
@@ -3835,7 +3835,7 @@ A2_GBenson_1158.pdf>]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<week_7.pdf, id=1764, 614.295pt x 794.97pt>
+<week_7.pdf, id=1780, 614.295pt x 794.97pt>
 File: week_7.pdf Graphic file (type pdf)
  <use week_7.pdf>
 Package pdftex.def Info: week_7.pdf used on input line 218.
@@ -3845,7 +3845,7 @@ File: week_7.pdf Graphic file (type pdf)
 Package pdftex.def Info: week_7.pdf used on input line 218.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<week_7.pdf, id=1767, page=1, 614.295pt x 794.97pt>
+<week_7.pdf, id=1783, page=1, 614.295pt x 794.97pt>
 File: week_7.pdf Graphic file (type pdf)
  <use week_7.pdf, page 1>
 Package pdftex.def Info: week_7.pdf, page1 used on input line 218.
@@ -3880,7 +3880,7 @@ File: week_7.pdf Graphic file (type pdf)
 Package pdftex.def Info: week_7.pdf used on input line 220.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<week_7.pdf, id=1790, page=2, 614.295pt x 794.97pt>
+<week_7.pdf, id=1805, page=2, 614.295pt x 794.97pt>
 File: week_7.pdf Graphic file (type pdf)
  <use week_7.pdf, page 2>
 Package pdftex.def Info: week_7.pdf, page2 used on input line 220.
@@ -3899,7 +3899,7 @@ File: week_7.pdf Graphic file (type pdf)
 Package pdftex.def Info: week_7.pdf, page2 used on input line 220.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
-<week_7.pdf, id=1791, page=3, 614.295pt x 794.97pt>
+<week_7.pdf, id=1806, page=3, 614.295pt x 794.97pt>
 File: week_7.pdf Graphic file (type pdf)
  <use week_7.pdf, page 3>
 Package pdftex.def Info: week_7.pdf, page3 used on input line 220.
@@ -3920,23 +3920,1045 @@ File: week_7.pdf Graphic file (type pdf)
  <use week_7.pdf, page 3>
 Package pdftex.def Info: week_7.pdf, page3 used on input line 220.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [137 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/week_7.pdf>] [138]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
- [139]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
+ [137 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/week_7.pdf>]
+<internship_portfolio.pdf, id=1817, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf>
+Package pdftex.def Info: internship_portfolio.pdf used on input line 231.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf>
+Package pdftex.def Info: internship_portfolio.pdf used on input line 231.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<internship_portfolio.pdf, id=1820, page=1, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 1>
+Package pdftex.def Info: internship_portfolio.pdf, page1 used on input line 231
+.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 1>
+Package pdftex.def Info: internship_portfolio.pdf, page1 used on input line 231
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 1>
+Package pdftex.def Info: internship_portfolio.pdf, page1 used on input line 231
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 1>
+Package pdftex.def Info: internship_portfolio.pdf, page1 used on input line 231
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+
+[138]
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 1>
+Package pdftex.def Info: internship_portfolio.pdf, page1 used on input line 231
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [139 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf>
+Package pdftex.def Info: internship_portfolio.pdf used on input line 232.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf>
+Package pdftex.def Info: internship_portfolio.pdf used on input line 232.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<internship_portfolio.pdf, id=1859, page=2, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 2>
+Package pdftex.def Info: internship_portfolio.pdf, page2 used on input line 232
+.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 2>
+Package pdftex.def Info: internship_portfolio.pdf, page2 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 2>
+Package pdftex.def Info: internship_portfolio.pdf, page2 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 2>
+Package pdftex.def Info: internship_portfolio.pdf, page2 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+
+<internship_portfolio.pdf, id=1860, page=3, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 3>
+Package pdftex.def Info: internship_portfolio.pdf, page3 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 3>
+Package pdftex.def Info: internship_portfolio.pdf, page3 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 2>
+Package pdftex.def Info: internship_portfolio.pdf, page2 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [140 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1866, page=4, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 4>
+Package pdftex.def Info: internship_portfolio.pdf, page4 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 4>
+Package pdftex.def Info: internship_portfolio.pdf, page4 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 3>
+Package pdftex.def Info: internship_portfolio.pdf, page3 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [141 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1872, page=5, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 5>
+Package pdftex.def Info: internship_portfolio.pdf, page5 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 5>
+Package pdftex.def Info: internship_portfolio.pdf, page5 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 4>
+Package pdftex.def Info: internship_portfolio.pdf, page4 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [142 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1878, page=6, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 6>
+Package pdftex.def Info: internship_portfolio.pdf, page6 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 6>
+Package pdftex.def Info: internship_portfolio.pdf, page6 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 5>
+Package pdftex.def Info: internship_portfolio.pdf, page5 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [143 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1884, page=7, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 7>
+Package pdftex.def Info: internship_portfolio.pdf, page7 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 7>
+Package pdftex.def Info: internship_portfolio.pdf, page7 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 6>
+Package pdftex.def Info: internship_portfolio.pdf, page6 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [144 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1891, page=8, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 8>
+Package pdftex.def Info: internship_portfolio.pdf, page8 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 8>
+Package pdftex.def Info: internship_portfolio.pdf, page8 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 7>
+Package pdftex.def Info: internship_portfolio.pdf, page7 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [145 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1897, page=9, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 9>
+Package pdftex.def Info: internship_portfolio.pdf, page9 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 9>
+Package pdftex.def Info: internship_portfolio.pdf, page9 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 8>
+Package pdftex.def Info: internship_portfolio.pdf, page8 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [146 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1903, page=10, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 10>
+Package pdftex.def Info: internship_portfolio.pdf, page10 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 10>
+Package pdftex.def Info: internship_portfolio.pdf, page10 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+ <use internship_portfolio.pdf, page 9>
+Package pdftex.def Info: internship_portfolio.pdf, page9 used on input line 232
+.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+
+[147 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfolio
+.pdf>] <internship_portfolio.pdf, id=1909, page=11, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 11>
+Package pdftex.def Info: internship_portfolio.pdf, page11 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 11>
+Package pdftex.def Info: internship_portfolio.pdf, page11 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 10>
+Package pdftex.def Info: internship_portfolio.pdf, page10 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [148 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1915, page=12, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 12>
+Package pdftex.def Info: internship_portfolio.pdf, page12 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 12>
+Package pdftex.def Info: internship_portfolio.pdf, page12 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 11>
+Package pdftex.def Info: internship_portfolio.pdf, page11 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [149 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1921, page=13, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 13>
+Package pdftex.def Info: internship_portfolio.pdf, page13 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 13>
+Package pdftex.def Info: internship_portfolio.pdf, page13 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 12>
+Package pdftex.def Info: internship_portfolio.pdf, page12 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [150 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1928, page=14, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 14>
+Package pdftex.def Info: internship_portfolio.pdf, page14 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 14>
+Package pdftex.def Info: internship_portfolio.pdf, page14 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 13>
+Package pdftex.def Info: internship_portfolio.pdf, page13 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [151 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1935, page=15, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 15>
+Package pdftex.def Info: internship_portfolio.pdf, page15 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 15>
+Package pdftex.def Info: internship_portfolio.pdf, page15 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 14>
+Package pdftex.def Info: internship_portfolio.pdf, page14 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [152 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1941, page=16, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 16>
+Package pdftex.def Info: internship_portfolio.pdf, page16 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 16>
+Package pdftex.def Info: internship_portfolio.pdf, page16 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 15>
+Package pdftex.def Info: internship_portfolio.pdf, page15 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [153 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1947, page=17, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 17>
+Package pdftex.def Info: internship_portfolio.pdf, page17 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 17>
+Package pdftex.def Info: internship_portfolio.pdf, page17 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 16>
+Package pdftex.def Info: internship_portfolio.pdf, page16 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [154 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1953, page=18, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 18>
+Package pdftex.def Info: internship_portfolio.pdf, page18 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 18>
+Package pdftex.def Info: internship_portfolio.pdf, page18 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 17>
+Package pdftex.def Info: internship_portfolio.pdf, page17 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [155 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1959, page=19, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 19>
+Package pdftex.def Info: internship_portfolio.pdf, page19 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 19>
+Package pdftex.def Info: internship_portfolio.pdf, page19 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 18>
+Package pdftex.def Info: internship_portfolio.pdf, page18 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [156 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1966, page=20, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 20>
+Package pdftex.def Info: internship_portfolio.pdf, page20 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 20>
+Package pdftex.def Info: internship_portfolio.pdf, page20 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 19>
+Package pdftex.def Info: internship_portfolio.pdf, page19 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [157 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1972, page=21, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 21>
+Package pdftex.def Info: internship_portfolio.pdf, page21 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 21>
+Package pdftex.def Info: internship_portfolio.pdf, page21 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 20>
+Package pdftex.def Info: internship_portfolio.pdf, page20 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [158 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1978, page=22, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 22>
+Package pdftex.def Info: internship_portfolio.pdf, page22 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 22>
+Package pdftex.def Info: internship_portfolio.pdf, page22 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 21>
+Package pdftex.def Info: internship_portfolio.pdf, page21 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [159 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1984, page=23, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 23>
+Package pdftex.def Info: internship_portfolio.pdf, page23 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 23>
+Package pdftex.def Info: internship_portfolio.pdf, page23 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 22>
+Package pdftex.def Info: internship_portfolio.pdf, page22 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [160 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1990, page=24, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 24>
+Package pdftex.def Info: internship_portfolio.pdf, page24 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 24>
+Package pdftex.def Info: internship_portfolio.pdf, page24 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 23>
+Package pdftex.def Info: internship_portfolio.pdf, page23 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [161 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=1996, page=25, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 25>
+Package pdftex.def Info: internship_portfolio.pdf, page25 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 25>
+Package pdftex.def Info: internship_portfolio.pdf, page25 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 24>
+Package pdftex.def Info: internship_portfolio.pdf, page24 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [162 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2003, page=26, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 26>
+Package pdftex.def Info: internship_portfolio.pdf, page26 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 26>
+Package pdftex.def Info: internship_portfolio.pdf, page26 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 25>
+Package pdftex.def Info: internship_portfolio.pdf, page25 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [163 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2009, page=27, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 27>
+Package pdftex.def Info: internship_portfolio.pdf, page27 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 27>
+Package pdftex.def Info: internship_portfolio.pdf, page27 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 26>
+Package pdftex.def Info: internship_portfolio.pdf, page26 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [164 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2015, page=28, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 28>
+Package pdftex.def Info: internship_portfolio.pdf, page28 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 28>
+Package pdftex.def Info: internship_portfolio.pdf, page28 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 27>
+Package pdftex.def Info: internship_portfolio.pdf, page27 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [165 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2021, page=29, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 29>
+Package pdftex.def Info: internship_portfolio.pdf, page29 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 29>
+Package pdftex.def Info: internship_portfolio.pdf, page29 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 28>
+Package pdftex.def Info: internship_portfolio.pdf, page28 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [166 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2027, page=30, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 30>
+Package pdftex.def Info: internship_portfolio.pdf, page30 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 30>
+Package pdftex.def Info: internship_portfolio.pdf, page30 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 29>
+Package pdftex.def Info: internship_portfolio.pdf, page29 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [167 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2033, page=31, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 31>
+Package pdftex.def Info: internship_portfolio.pdf, page31 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 31>
+Package pdftex.def Info: internship_portfolio.pdf, page31 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 30>
+Package pdftex.def Info: internship_portfolio.pdf, page30 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [168 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2040, page=32, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 32>
+Package pdftex.def Info: internship_portfolio.pdf, page32 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 32>
+Package pdftex.def Info: internship_portfolio.pdf, page32 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 31>
+Package pdftex.def Info: internship_portfolio.pdf, page31 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [169 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2046, page=33, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 33>
+Package pdftex.def Info: internship_portfolio.pdf, page33 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 33>
+Package pdftex.def Info: internship_portfolio.pdf, page33 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 32>
+Package pdftex.def Info: internship_portfolio.pdf, page32 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [170 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2052, page=34, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 34>
+Package pdftex.def Info: internship_portfolio.pdf, page34 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 34>
+Package pdftex.def Info: internship_portfolio.pdf, page34 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 33>
+Package pdftex.def Info: internship_portfolio.pdf, page33 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [171 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2058, page=35, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 35>
+Package pdftex.def Info: internship_portfolio.pdf, page35 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 35>
+Package pdftex.def Info: internship_portfolio.pdf, page35 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 34>
+Package pdftex.def Info: internship_portfolio.pdf, page34 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [172 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2064, page=36, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 36>
+Package pdftex.def Info: internship_portfolio.pdf, page36 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 36>
+Package pdftex.def Info: internship_portfolio.pdf, page36 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 35>
+Package pdftex.def Info: internship_portfolio.pdf, page35 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [173 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2070, page=37, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 37>
+Package pdftex.def Info: internship_portfolio.pdf, page37 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 37>
+Package pdftex.def Info: internship_portfolio.pdf, page37 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 36>
+Package pdftex.def Info: internship_portfolio.pdf, page36 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [174 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2077, page=38, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 38>
+Package pdftex.def Info: internship_portfolio.pdf, page38 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 38>
+Package pdftex.def Info: internship_portfolio.pdf, page38 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 37>
+Package pdftex.def Info: internship_portfolio.pdf, page37 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [175 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2083, page=39, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 39>
+Package pdftex.def Info: internship_portfolio.pdf, page39 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 39>
+Package pdftex.def Info: internship_portfolio.pdf, page39 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 38>
+Package pdftex.def Info: internship_portfolio.pdf, page38 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [176 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2090, page=40, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 40>
+Package pdftex.def Info: internship_portfolio.pdf, page40 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 40>
+Package pdftex.def Info: internship_portfolio.pdf, page40 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 39>
+Package pdftex.def Info: internship_portfolio.pdf, page39 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [177 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2096, page=41, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 41>
+Package pdftex.def Info: internship_portfolio.pdf, page41 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 41>
+Package pdftex.def Info: internship_portfolio.pdf, page41 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 40>
+Package pdftex.def Info: internship_portfolio.pdf, page40 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [178 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2102, page=42, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 42>
+Package pdftex.def Info: internship_portfolio.pdf, page42 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 42>
+Package pdftex.def Info: internship_portfolio.pdf, page42 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 41>
+Package pdftex.def Info: internship_portfolio.pdf, page41 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [179 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2108, page=43, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 43>
+Package pdftex.def Info: internship_portfolio.pdf, page43 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 43>
+Package pdftex.def Info: internship_portfolio.pdf, page43 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 42>
+Package pdftex.def Info: internship_portfolio.pdf, page42 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [180 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2115, page=44, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 44>
+Package pdftex.def Info: internship_portfolio.pdf, page44 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 44>
+Package pdftex.def Info: internship_portfolio.pdf, page44 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 43>
+Package pdftex.def Info: internship_portfolio.pdf, page43 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [181 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2121, page=45, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 45>
+Package pdftex.def Info: internship_portfolio.pdf, page45 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 45>
+Package pdftex.def Info: internship_portfolio.pdf, page45 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 44>
+Package pdftex.def Info: internship_portfolio.pdf, page44 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [182 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2127, page=46, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 46>
+Package pdftex.def Info: internship_portfolio.pdf, page46 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 46>
+Package pdftex.def Info: internship_portfolio.pdf, page46 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 45>
+Package pdftex.def Info: internship_portfolio.pdf, page45 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [183 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+<internship_portfolio.pdf, id=2133, page=47, 597.23125pt x 845.1575pt>
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 47>
+Package pdftex.def Info: internship_portfolio.pdf, page47 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 47>
+Package pdftex.def Info: internship_portfolio.pdf, page47 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 46>
+Package pdftex.def Info: internship_portfolio.pdf, page46 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [184 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>]
+File: internship_portfolio.pdf Graphic file (type pdf)
+
+<use internship_portfolio.pdf, page 47>
+Package pdftex.def Info: internship_portfolio.pdf, page47 used on input line 23
+2.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [185 </home/dustin/Documents/git-repos/Grad-Work/Grad-Work/internship_portfoli
+o.pdf>] [186]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
+ [187]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
 
 (/home/dustin/Documents/git-repos/Grad-Work/Grad-Work/port.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
 Package rerunfilecheck Info: File `port.out' has not changed.
-(rerunfilecheck)             Checksum: 018C5BF3F1D96573E67E549964A738DA;3338.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
+(rerunfilecheck)             Checksum: EA23DEA9AB7DEBE4347F101518B78503;3556.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
  ) 
 Here is how much of TeX's memory you used:
- 7390 strings out of 495000
- 116812 string characters out of 6181169
+ 7594 strings out of 495000
+ 122322 string characters out of 6181169
  197003 words of memory out of 5000000
- 10298 multiletter control sequences out of 15000+600000
+ 10446 multiletter control sequences out of 15000+600000
  8808 words of font info for 31 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  41i,18n,46p,1219b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3946,10 +4968,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
 fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/symbol/usyr.pfb>
 Output written on /home/dustin/Documents/git-repos/Grad-Work/Grad-Work/port.pdf
- (140 pages, 4904171 bytes).
+ (188 pages, 5618342 bytes).
 PDF statistics:
- 1886 PDF objects out of 2073 (max. 8388607)
- 1370 compressed objects within 14 object streams
- 228 named destinations out of 1000 (max. 500000)
- 1431 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2241 PDF objects out of 2487 (max. 8388607)
+ 1612 compressed objects within 17 object streams
+ 282 named destinations out of 1000 (max. 500000)
+ 1715 words of extra memory for PDF output out of 10000 (max. 10000000)
 
